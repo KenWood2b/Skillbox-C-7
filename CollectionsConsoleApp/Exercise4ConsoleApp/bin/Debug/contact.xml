@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Петров Олег Владимирович">
+  <Address>
+    <Street>Космическая</Street>
+    <HouseNumber>5</HouseNumber>
+    <FlatNumber>20</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>9988776655</MobilePhone>
+    <FlatPhone>98765</FlatPhone>
+  </Phones>
+</Person>

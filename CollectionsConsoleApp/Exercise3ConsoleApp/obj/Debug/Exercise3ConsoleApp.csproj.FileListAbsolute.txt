@@ -1,0 +1,7 @@
+D:\C#\CollectionsConsoleApp\Exercise3ConsoleApp\bin\Debug\Exercise3ConsoleApp.exe.config
+D:\C#\CollectionsConsoleApp\Exercise3ConsoleApp\bin\Debug\Exercise3ConsoleApp.exe
+D:\C#\CollectionsConsoleApp\Exercise3ConsoleApp\bin\Debug\Exercise3ConsoleApp.pdb
+D:\C#\CollectionsConsoleApp\Exercise3ConsoleApp\obj\Debug\Exercise3ConsoleApp.csproj.AssemblyReference.cache
+D:\C#\CollectionsConsoleApp\Exercise3ConsoleApp\obj\Debug\Exercise3ConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\CollectionsConsoleApp\Exercise3ConsoleApp\obj\Debug\Exercise3ConsoleApp.exe
+D:\C#\CollectionsConsoleApp\Exercise3ConsoleApp\obj\Debug\Exercise3ConsoleApp.pdb
